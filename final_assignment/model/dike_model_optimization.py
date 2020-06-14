@@ -50,5 +50,5 @@ if __name__ == '__main__':
     fig, ax1 = plt.subplots(ncols=1)
     ax1.plot(convergence.epsilon_progress)
     ax1.set_xlabel('nr. of generations')
-    ax1.set_ylabel('$\epsilon$ progress')
+    ax1.set_ylabel('$epsilon$ progress')
     sns.despine()
