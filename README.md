@@ -1,4 +1,6 @@
-## Group 18 - Sercinho Banda, Eva Brink Carvalho, Syed Mujtaba Fardeen, Tess Kim, Pratheep Kumaar
+## Group 18 
+
+### Sercinho Banda, Eva Brink Carvalho, Syed Mujtaba Fardeen, Tess Kim, Pratheep Kumaar
 
 
 Week 1-2 - general intro to exploratory modelling - COMPLETE
