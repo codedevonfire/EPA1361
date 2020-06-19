@@ -9,4 +9,4 @@ Week 3-4 - vulnerability analysis - COMPLETE
 
 Week 5-6 - robustness and direct search - COMPLETE
 
-*Final Assignment - please refer to 'final assignment' folder - COMPLETE*
+_Final Assignment - please refer to 'final assignment' folder - COMPLETE_
